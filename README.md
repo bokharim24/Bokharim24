@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, A simple website that I created with HTMl and CSS for my portfolio.
 
 <!--
 **bokharim24/Bokharim24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
